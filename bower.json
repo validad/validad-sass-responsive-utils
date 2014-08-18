@@ -5,7 +5,6 @@
     "Johannes Troeger <johannes.troeger@gmail.com>"
   ],
   "description": "Responsive Utils written Sass",
-  "main": "",
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -13,5 +12,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "homepage": "https://github.com/validad/validad-sass-responsive-utils",
+  "devDependencies": {
+    "bootcamp": "~1.1.6"
+  }
 }

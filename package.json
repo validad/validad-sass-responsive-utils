@@ -1,0 +1,24 @@
+{
+  "name": "(validad-sass-responsive-utils)",
+  "version": "0.0.0",
+  "description": "Responsive utils for SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/validad/validad-sass-responsive-utils.git"
+  },
+  "author": "Validad AG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/validad/validad-sass-responsive-utils/issues"
+  },
+  "devDependencies": {
+    "bootcamp": "^1.1.6",
+    "bower": "^1.3.9",
+    "grunt": "^0.4.5",
+    "grunt-contrib-sass": "^0.7.4"
+  }
+}
