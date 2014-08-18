@@ -5,7 +5,7 @@
     "Johannes Troeger <johannes.troeger@gmail.com>"
   ],
   "description": "Responsive Utils written Sass",
-  "main": "src/**/*.scss",
+  "main": "",
   "license": "MIT",
   "ignore": [
     "**/.*",
