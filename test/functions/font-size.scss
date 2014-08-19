@@ -1,0 +1,5 @@
+@include describe("test block \: mixin font-size") {
+  @include it("should expect positive values to be calculated correctly") {
+    @include should( expect(font-size(1.2)), to(equal("")));
+  }
+}
