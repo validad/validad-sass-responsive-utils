@@ -1,0 +1,15 @@
+// Mixin: Placeholder
+//
+// usage:
+// input[type=text] {
+//   @include placeholder {
+//       text-align: center;
+//   }
+// }
+//
+@mixin placeholder {
+    &::-webkit-input-placeholder {@content}
+    &:-moz-placeholder           {@content}
+    &::-moz-placeholder          {@content}
+    &:-ms-input-placeholder      {@content}
+}
