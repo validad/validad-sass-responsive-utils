@@ -4,3 +4,8 @@
 //        "./_mixins/_groupfix",
 //        "./_mixins/_placeholder",
 //        "./_mixins/_respond-to";
+
+
+p {
+  @include font-size(1.4);
+}
