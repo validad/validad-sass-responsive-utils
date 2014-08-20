@@ -1,5 +1,0 @@
-@include describe("test block \: mixin font-size") {
-  @include it("should expect positive values to be calculated correctly") {
-    @include should( expect(sass main\.scss), to(equal(main\.css)));
-  }
-}
