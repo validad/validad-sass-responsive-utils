@@ -1,0 +1,9 @@
+@import "src/functions/main.scss";
+
+@import "node_modules/bootcamp/dist/bootcamp";
+$bc-setting-verbose:  false;
+$bc-setting-warnings: false;
+
+@include runner-start;
+@import "test/functions/font-size.scss";
+@include runner-end;
